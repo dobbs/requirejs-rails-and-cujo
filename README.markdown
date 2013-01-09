@@ -11,3 +11,8 @@ how I got this started
     rvm rvmrc trust .
     echo "gem 'requirejs-rails'" >> Gemfile
     bundle install
+
+then some hacking around following requirejs-rails instructions here:
+[https://github.com/jwhitley/requirejs-rails]
+
+
